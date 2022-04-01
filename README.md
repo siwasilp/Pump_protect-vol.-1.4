@@ -21,3 +21,8 @@ CLE..
 ![277150013_756126592038690_4771377430570306347_n](https://user-images.githubusercontent.com/54813971/161249065-c9f6edec-3255-472e-8cc4-494385bf2d4b.jpg)
 OUT...
 ![275322499_3160530320902028_3908190900524263327_n](https://user-images.githubusercontent.com/54813971/161249364-c4f4f5cd-8400-419c-bf2b-15fabc3ed266.jpg)
+
+++++++++++++++++++++++++++++++++++++++++++++++++
+#TEST_SENSOR
+-RPM
+![ezgif-4-3be22a87f3](https://user-images.githubusercontent.com/54813971/161260171-651f1d57-ca4b-4ae6-84a8-5d99502e0628.gif)
