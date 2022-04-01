@@ -13,8 +13,10 @@ parameter : para.h
 DATA : EEPROM_chc
 ```
 
+SS >> https://drive.google.com/file/d/1evWi_k2biZol9Gwekoo-Tuchk0D6FeCR/view?usp=sharing
+
 Dia.
-![qwfq](https://user-images.githubusercontent.com/54813971/161256292-10544032-62e8-4650-b4b7-155b1373dea0.jpg)
+![Untitled Diagram drawio](https://user-images.githubusercontent.com/54813971/161257789-1953f512-b22b-4a79-bff4-2f5250f2ae73.png)
 CLE..
 ![277150013_756126592038690_4771377430570306347_n](https://user-images.githubusercontent.com/54813971/161249065-c9f6edec-3255-472e-8cc4-494385bf2d4b.jpg)
 OUT...
