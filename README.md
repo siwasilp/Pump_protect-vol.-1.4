@@ -1,10 +1,10 @@
-# Pump_protect-vol.-1.4
+# Pump_protect-vol.- 2.0
 MAGA_PRO + Relay + RTK + LCD + [ SENSOR : Temp / RMP ]
-- [x] Switch input ALL || MAX 5V Orly !!! 
+- [x] Switch input ALL 
 - [x] LED_output
-- [x] Relay output ALL || MAX 10 A
-- [x] RPM >> Timer >> EEPROM || Over 100,000 EE || Def 5000 Hr.
-- [ ] Sensor_TEMP 60% :tada:
+- [x] Relay output ALL 
+- [x] RPM >> Timer >> EEPROM ||  Def 5000 Hr.
+- [x] Sensor Temp
 
 Sub_Lish :
 ```
