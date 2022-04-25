@@ -16,6 +16,9 @@ DATA : EEPROM_chc
 
 SS >> https://drive.google.com/file/d/1evWi_k2biZol9Gwekoo-Tuchk0D6FeCR/view?usp=sharing
 
+Las_UP.
+![278625921_544075877149624_1887046991805910838_n](https://user-images.githubusercontent.com/54813971/165150108-bbc23a2b-8120-4e3c-9d8a-8aa6d7be9e24.jpg)
+
 Dia.
 ![Untitled Diagram drawio](https://user-images.githubusercontent.com/54813971/161257789-1953f512-b22b-4a79-bff4-2f5250f2ae73.png)
 CLE..
