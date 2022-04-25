@@ -5,6 +5,7 @@ MAGA_PRO + Relay + RTK + LCD + [ SENSOR : Temp / RMP ]
 - [x] Relay output ALL .
 - [x] << IR_SENSOR.. >> RPM >> Timer >> EEPROM ||  Def 5000 Hr. 
 - [x] << DS1820b..tp >> Sensor Temperature.
+- [ ] << TIME ct..EP >> Real Counter PULL.
 
 Sub_Lish :
 ```
