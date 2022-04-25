@@ -1,14 +1,14 @@
-# Pump_protect-vol.- 2.0
+# Pump_protect-vol.- 5.0
 MAGA_PRO + Relay + RTK + LCD + [ SENSOR : Temp / RMP ]
-- [x] Switch input ALL 
-- [x] LED_output
-- [x] Relay output ALL 
-- [x] RPM >> Timer >> EEPROM ||  Def 5000 Hr.
-- [x] Sensor Temp
+- [x] Switch input ALL .
+- [x] LED_output.
+- [x] Relay output ALL .
+- [x] << IR_SENSOR.. >> RPM >> Timer >> EEPROM ||  Def 5000 Hr. 
+- [x] << DS1820b..tp >> Sensor Temperature.
 
 Sub_Lish :
 ```
-main : vol_1_water.ino
+main : water.ino
 parameter : para.h
 DATA : EEPROM_chc
 ```
