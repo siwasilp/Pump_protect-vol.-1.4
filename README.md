@@ -1,4 +1,6 @@
-# Pump_protect-vol.- 5.0
+# Pump_protect-vol.- 4.0 - COMMIT.
+# site : Lampang, Syn. : CLEAR @ 20220419:02:28 OK
+
 MAGA_PRO + Relay + RTK + LCD + [ SENSOR : Temp / RMP ]
 - [x] Switch input ALL .
 - [x] LED_output.
